@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "739437044691",
+    "firebase_url": "https://flutter-project1-1739f-default-rtdb.firebaseio.com",
+    "project_id": "flutter-project1-1739f",
+    "storage_bucket": "flutter-project1-1739f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:739437044691:android:325870ea7d4f6f01690526",
+        "android_client_info": {
+          "package_name": "com.example.nutrition"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "739437044691-6vlekh4n3belarfre2cs5o36v7ojthcm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeZ034D3Zs22SpvFnc7yMKgpA7Mhpp5G4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "739437044691-6vlekh4n3belarfre2cs5o36v7ojthcm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "739437044691-dhb3uap7046q9tqfj2og191acjpapgvs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.nutrition"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
